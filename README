@@ -1,0 +1,27 @@
+# Pac-Man App
+
+Bienvenido/a a la aplicación Pac-Man, una implementación simple del juego Pac-Man con métricas expuestas a Prometheus.
+
+## Descripción
+
+La aplicación Pac-Man es una aplicación web que simula el juego Pac-Man. Cada vez que un usuario accede a la ruta principal de la aplicación, se incrementa el contador de movimientos de Pac-Man. Esta aplicación ha sido desarrollada para mostrar cómo instrumentar aplicaciones y exponer métricas a Prometheus.
+
+## Instrucciones de uso
+
+1. Clona el repositorio.
+2. Despliega la aplicación en tu entorno preferido (por ejemplo, OpenShift).
+3. Accede a la aplicación a través de la URL proporcionada.
+4. Interactúa con la aplicación para ver cómo se incrementan las métricas de Pac-Man en Prometheus.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tus contribuciones.
+3. Realiza tus cambios y realiza un commit.
+4. Envía un pull request para que podamos revisar tus cambios.
+
+## Licencia
+
+Este proyecto está bajo la Licencia [Nombre de la licencia]. Consulta el archivo LICENSE para más detalles.
